@@ -1,4 +1,4 @@
 {
-  "admin/test": "test",
-  "store/test": "test"
+  "admin-leads.navigation.label": "Leads",
+  "admin-leads.navigation.search.kws": "leads, clients, client, prospects, prospect"
 }
