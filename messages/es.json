@@ -1,4 +1,6 @@
 {
   "admin-leads.navigation.label": "Leads",
-  "admin-leads.navigation.search.kws": "leads, clientes, cliente, prospectos, prospecto"
+  "admin-leads.navigation.search.kws": "leads, clientes, cliente, prospectos, prospecto",
+  "admin-example.navigation.insights": "Información",
+  "admin-example.navigation.management": "Administración"
 }

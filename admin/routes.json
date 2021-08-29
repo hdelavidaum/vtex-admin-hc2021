@@ -1,6 +1,10 @@
 {
-  "admin.app.example": {
+  "admin.app.leadsInsights": {
     "component": "leadsTable",
-    "path": "/admin/app/leads"
+    "path": "/admin/app/leads-insights"
+  },
+  "admin.app.leadsManagement": {
+    "component": "leadsManager",
+    "path": "/admin/app/leads-management"
   }
 }

@@ -1,6 +1,15 @@
 {
   "section": "analytics",
   "titleId": "admin-leads.navigation.label",
-  "path": "/admin/leads",
-  "searchKeyWordsHelpers": "admin-leads.navigation.search.kws"
+  "searchKeyWordsHelpers": "admin-leads.navigation.search.kws",
+  "subSectionItems": [
+    {
+      "labelId": "admin-leads.navigation.insights",
+      "path": "/admin/leads-insights"
+    },
+    {
+      "labelId": "admin-leads.navigation.management",
+      "path": "/admin/leads-management"
+    }
+  ]
 }
