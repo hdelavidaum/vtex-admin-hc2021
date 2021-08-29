@@ -1,0 +1,6 @@
+{
+  "admin.app.example": {
+    "component": "leadsTable",
+    "path": "/admin/app/leads"
+  }
+}
